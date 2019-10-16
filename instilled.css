@@ -7,6 +7,6 @@
 	display: block;
 }
 
-.report-actions:nth-child(4) {
+.detail .detail-header .report-actions div:nth-child(4) {
 	display: none;
 }
