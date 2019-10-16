@@ -6,3 +6,7 @@
 .detail .detail-header .report-actions {
 	display: block;
 }
+
+.report-actions:nth-child(4) {
+	display: none;
+}
