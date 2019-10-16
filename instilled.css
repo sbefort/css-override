@@ -1,0 +1,19 @@
+
+.embedded .detail-header {
+	display: block;
+}
+
+.detail .detail-header {
+	margin-top: 15px;
+}
+
+.detail .detail-header .report-actions {
+	display: block;
+}
+
+@media (max-width: 767px) {
+	.detail .detail-header .report-actions {
+		display: block;
+	}
+}
+
